@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🔥 Responsive Portfolio Website Ansel
 ## [Watch it on youtube](https://youtu.be/oy8dSsK57Ps)
 ### 🔥 Responsive Portfolio Website
@@ -11,3 +12,6 @@
 💙 Join the channel to see more videos like this. [Bedimcode](https://www.youtube.com/c/Bedimcode)
 
 ![preview img](/preview.png)
+=======
+# Portfolio
+>>>>>>> new-branch
